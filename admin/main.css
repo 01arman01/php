@@ -1,0 +1,19 @@
+body {
+    
+    font-size: 19px;
+
+}
+div {
+    width: 700px;
+    margin: 20px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+}
+input {
+    font-size: 19px;
+}
+textarea {
+    font-size: 19px;
+}
